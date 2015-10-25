@@ -2,7 +2,15 @@
 ### Quick word-based passwords from a file with added break characters
 
 In conjunction with a wordlist, create random passwords including break characters in between words
- 
+
+Example output (assuming a 5 word limit):
+
+- husky$closet*sa8tavern1qe9
+- brig^starr7smith4milky7rl_
+- made2writ(libel*since bock_
+
+Please keep in mind a private word list should be used for any cryptographic purposes.
+
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
