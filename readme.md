@@ -1,8 +1,7 @@
 # randpass
-## Quick word-based passwords from a file with added break characters
-## By: Adam M Richards 
+### Quick word-based passwords from a file with added break characters
 
-Use: in conjunction with a wordlist, create random passwords including break characters in between words
+In conjunction with a wordlist, create random passwords including break characters in between words
  
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
